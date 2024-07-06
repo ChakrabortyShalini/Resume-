@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    color: #333;
+}
+
+.resume-main {
+    display: flex;
+    margin: 20px auto;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.left-box, .right-box {
+    padding: 20px;
+}
+
+.left-box {
+    width: 35%;
+    background: linear-gradient(135deg, #9b59b6, #71b7e6);
+    color: black;
+}
+
+.right-box {
+    width: 65%;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.profile-photo img {
+    width: 50%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e4e4e4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
