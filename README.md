@@ -28,3 +28,15 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shalini/resume-website.git
+   
+   ## Contact
+Feel free to reach out to me via the following methods:
+
+- **Email**: [shalinislg619@gmail.com](mailto:shalinislg619@gmail.com)
+- **Phone**: +918535849551
+- **LinkedIn**: [Shalini Chakraborty](https://www.linkedin.com/in/shalini-c-0a2713201/)
+- **GitHub**: [ChakrabortyShalini](https://github.com/ChakrabortyShalini)
+
+---
+
+Thank you for visiting!
