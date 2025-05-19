@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/shalini/resume-website.git
    
-   ## Contact
+## Contact
 Feel free to reach out to me via the following methods:
 
 - **Email**: [shalinislg619@gmail.com](mailto:shalinislg619@gmail.com)
